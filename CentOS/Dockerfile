@@ -1,5 +1,5 @@
 #
-FROM centos:laster
+FROM centos:latest
 
 #
 MAINTAINER by John_zero (2625210655@qq.com)
